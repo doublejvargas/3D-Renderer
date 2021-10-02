@@ -1,4 +1,4 @@
-#LWGL-3D-Graphics-Engine
+#3D-Renderer
 
 Development of this engine follows the youtube tutorial by ThinMatrix.
 Link to playlist: https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
